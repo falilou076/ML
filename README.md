@@ -1,2 +1,3 @@
 # ML
-P
+Projet Machine learning DIC1 GIT
+
