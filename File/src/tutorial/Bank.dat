@@ -1,0 +1,13 @@
+10.0     opening
+3      numPeriods
+1  20.0 numAgents and base arrival rate
+2  35.0
+2  28.0
+10.0    alpha_0
+0.05     p
+200.0     nu
+1.0     alpha
+0.01    beta    (mean service time = 100 sec)
+20.0    s
+60.0    sigmaA
+
