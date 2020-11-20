@@ -1,3 +1,3 @@
-# ML
-Projet Machine learning DIC1 GIT
+# SSJ
+Projet Modelisation stochastique DIC1 GIT
 
